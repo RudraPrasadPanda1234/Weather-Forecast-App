@@ -54,6 +54,14 @@ Engaging Lottie animations and dynamic background visuals adapt to the current w
 * ***Weather Data API:*** [OpenWeatherMap.org](https://openweathermap.org)  
 * ***Animation Library:*** [Lottie](https://lottiefiles.com/)
 
+## Project Screenshots
+<img src="https://github.com/RudraPrasadPanda1234/Weather-Forecast-App/assets/122832936/c95643f7-e512-44c2-9902-4f75045a1a9b" alt="Splash Screen" width="200px" height="400px">
+<img src="https://github.com/RudraPrasadPanda1234/Weather-Forecast-App/assets/122832936/0484778f-5d2b-4dc7-b25f-62448d33ecfa" alt="Goa" width="200px" height="400px">
+<img src="https://github.com/RudraPrasadPanda1234/Weather-Forecast-App/assets/122832936/f91657fc-46ff-4c00-bc1b-968d1fec013f" alt="Punjab" width="200px" height="400px">
+<img src="https://github.com/RudraPrasadPanda1234/Weather-Forecast-App/assets/122832936/c516c816-7542-47d8-8e85-523c84e9a813" alt="Chennai" width="200px" height="400px">
+<img src="https://github.com/RudraPrasadPanda1234/Weather-Forecast-App/assets/122832936/51c99e2a-786c-4dcd-94af-ac55c39c00d1" alt="Jaipur" width="200px" height="400px">
+<img src="https://github.com/RudraPrasadPanda1234/Weather-Forecast-App/assets/122832936/db1c2224-963c-4ed8-be8e-ba9704234847" alt="Mumbai" width="200px" height="400px">
+
 ## Installation Steps
 **Method 1:**
 <p>1. Open Android Studio.</p>
