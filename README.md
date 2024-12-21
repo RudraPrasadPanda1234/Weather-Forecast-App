@@ -28,6 +28,7 @@
 * [About The Project](#about-the-project)
 * [Features](#features)
 * [Built With](#built-with)
+* [Project Screenshots](#project-screenshots)
 * [Installation Steps](#installation-steps)
 * [Contributing Guidlines](#contributing-guidlines)
 
